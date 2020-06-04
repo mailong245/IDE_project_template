@@ -1,1 +1,1 @@
-# IDE_project_template-
+# IDE_project_template
