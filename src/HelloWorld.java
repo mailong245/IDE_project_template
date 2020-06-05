@@ -27,6 +27,9 @@ public class HelloWorld {
     }
 
     public static void method() {
+        DatabaseBusinessImpl dbi = new DatabaseBusinessImpl();
+
+        dbi.getData();
         int a = 1;
         int b = 2;
         int c = add(a, b);
